@@ -1,4 +1,3 @@
-# Prompt_Enginnering
 # Prompt Engineering Guide 🚀
 
 A practical guide to crafting effective prompts for AI language models. Learn to communicate clearly with AI systems to get optimal results.
