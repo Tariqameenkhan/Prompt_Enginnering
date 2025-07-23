@@ -74,6 +74,43 @@ In 10 outfield players, 2 players take an injury and one has not come. How many 
 
 ---
 
+
+# Three of Thought (TOT)
+
+- Three of Thought presents multiple answers - choose the correct one or you want .
+
+**Example Question**:  
+There are three cars: blue, green, yellow. Which one would you buy?
+
+**Possible Choices**:  
+1. I choose blue car  
+2. I choose green car  
+3. I choose yellow car  
+
+**Correct Answer**:  
+✅ I choose yellow car  
+
+**Explanation**:  
+The yellow car was chosen because it's the most visible color for safety.
+## or
+### Example:  
+**Q**: What is 2 + 2?  
+
+**Possible Answers**:  
+1. 3  
+2. 4  
+3. 5  
+
+**Correct Choice**:  
+✅ **4**  
+
+**Why?**:  
+Basic arithmetic rules confirm that 2 + 2 = 4. 
+
+--- 
+
+---
+
 # Generated Knowledge
 
 ## Example1. Economic Problems
